@@ -2,7 +2,7 @@ name: Build
 on:
   workflow_dispatch:
       inputs:
-        package_name:com.YoStarJP.Arknights
+        package_name:"com.YoStarJP.Arknights:"
           description: "明日方舟:"
           required: true
 
